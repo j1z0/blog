@@ -1,14 +1,16 @@
 # Site
-title:              j1z0.info 
-bio:                'Big Data Portal architect, coding mentor, IoT enthusiasts.'
-description:        "A blog about code, big data, IoT, things we do at HMS and python throughout"
+title:              j1z0's Page
+bio:                'Data Portal Architect, Coding Mentor, IoT Enthusiasts'
+description:        "A blog about code, big data, IoT, things we do at HMS and python"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://j1z0.info
+# url:                http://j1z0.net.s3-website-us-east-1.amazonaws.com
+url:                https://j1z0.net
+# url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +39,7 @@ disqus_shortname:  j1z0
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              johnsonjp@gmail.com
+# email:              
 twitter:            j1z0 
 github-url:         j1z0 
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -59,7 +61,7 @@ linkedin:           jeremy-johnson-b900133
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
+hackernews:        j1z0 
 
 # Gems
 gems:
