@@ -29,6 +29,6 @@ comments: false
 
 ### Reach Out
 
-Any of the above sound interesting?  Hit me up at any of the link below.
+Any of the above sound interesting?  Hit me up at johnsonjp at gmail dot com. 
 
 
